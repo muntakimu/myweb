@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x" timestamp="1531231481166">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3860425803" ref="about:index:ml(python):python:c-and-c--:android"/>
+    <file name="about.css" crc="438751629" ref="about"/>
+    <file name="index.css" crc="3792628470" ref="index"/>
+    <file name="ml_python_.css" crc="3862308573" ref="ml(python)"/>
+    <file name="python.css" crc="3862308573" ref="python"/>
+    <file name="c-and-c--.css" crc="3862308573" ref="c-and-c--"/>
+    <file name="android.css" crc="3862308573" ref="android"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:android:ml(python):c-and-c--:python"/>
+    <file name="require.js" crc="4157109226" ref="index:about:android:ml(python):c-and-c--:python"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="fb_icon_325x325.png" crc="295188661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-logo_thumb.jpg" crc="4022562836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-logo.png" crc="3805727199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galaxy-note8_design_planet.jpg" crc="494295254" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mypic.jpg" crc="4083170805" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3794406824" seo="true" mt="1531231165816" redirect="true"/>
+  <file name="about.html" crc="77578579" seo="true" mt="1531230090804" redirect="true"/>
+  <file name="android.html" crc="208343477" seo="true" mt="1531229045155" redirect="true"/>
+  <file name="ml(python).html" crc="237458580" seo="true" mt="1531229045155" redirect="true"/>
+  <file name="c-and-c--.html" crc="453539297" seo="true" mt="1531229045155" redirect="true"/>
+  <file name="python.html" crc="74952339" seo="true" mt="1531229045155" redirect="true"/>
+</manifest>
